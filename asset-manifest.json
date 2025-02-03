@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/schedule-meeting/static/css/main.12d59c4b.css",
+    "main.js": "/schedule-meeting/static/js/main.95909e7d.js",
+    "static/media/robot.png": "/schedule-meeting/static/media/robot.b3924d6a4b8b19ef9de9.png",
+    "static/media/bill.png": "/schedule-meeting/static/media/bill.042c4c8c3a77ddd977e0.png",
+    "static/media/card.png": "/schedule-meeting/static/media/card.a2e9df80e8b4106cace9.png",
+    "static/media/people01.png": "/schedule-meeting/static/media/people01.a40f2b61208976a6d644.png",
+    "static/media/google.svg": "/schedule-meeting/static/media/google.c869581ad4b65688b371446c80ff8e60.svg",
+    "static/media/apple.svg": "/schedule-meeting/static/media/apple.fcf3c88ab06d5964255bd6139baa74da.svg",
+    "static/media/people02.png": "/schedule-meeting/static/media/people02.bba1091ac468e1439956.png",
+    "static/media/logo.svg": "/schedule-meeting/static/media/logo.107556e3d36401966a311b4247e57e26.svg",
+    "static/media/instagram.svg": "/schedule-meeting/static/media/instagram.f9d228c1cbb5edc0706aebd672fb769e.svg",
+    "static/media/Discount.svg": "/schedule-meeting/static/media/Discount.a6d9f332ea77ac0d6cbf58364176bc16.svg",
+    "static/media/close.svg": "/schedule-meeting/static/media/close.4b1cc5d063959cf86b7849aef0c24c63.svg",
+    "static/media/Star.svg": "/schedule-meeting/static/media/Star.4e0f3ea6e0c6e27f8acc54dcca7cfbe2.svg",
+    "static/media/menu.svg": "/schedule-meeting/static/media/menu.773d1f3d335d2a46203de2be7f4f4e19.svg",
+    "static/media/twitter.svg": "/schedule-meeting/static/media/twitter.f573afd4ee70524f8c1816b085f94583.svg",
+    "static/media/Shield.svg": "/schedule-meeting/static/media/Shield.7ab56fff277c91081663825b6efaea52.svg",
+    "static/media/linkedin.svg": "/schedule-meeting/static/media/linkedin.e1d176e65b3271b94f634a1a094bd9f6.svg",
+    "static/media/Send.svg": "/schedule-meeting/static/media/Send.b7f09b0fd9a29ffad13e1f504acd624a.svg",
+    "static/media/quotes.svg": "/schedule-meeting/static/media/quotes.c8bb1da8320f056e0e1cf903465cc3a6.svg",
+    "index.html": "/schedule-meeting/index.html",
+    "static/media/facebook.svg": "/schedule-meeting/static/media/facebook.34082cd87ee9398b19edd541204c2227.svg",
+    "main.12d59c4b.css.map": "/schedule-meeting/static/css/main.12d59c4b.css.map",
+    "main.95909e7d.js.map": "/schedule-meeting/static/js/main.95909e7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d59c4b.css",
+    "static/js/main.95909e7d.js"
+  ]
+}
